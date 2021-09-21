@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895526929279",
+    "project_id": "mrfixit-f3da1",
+    "storage_bucket": "mrfixit-f3da1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895526929279:android:9eb800ae1b506ae8cd104a",
+        "android_client_info": {
+          "package_name": "com.appsnipp.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895526929279-mmkl0d5ii11tee7lijt85099nu52a2hj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnipp.services",
+            "certificate_hash": "c3fc15fb32cac2aa8886404f6cfae4871429f730"
+          }
+        },
+        {
+          "client_id": "895526929279-41crn0j2bo065s59hau0kpdbm6fqrdmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAXbkd3k6HHtjoR4fleZPADuJPaY9AH5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895526929279-41crn0j2bo065s59hau0kpdbm6fqrdmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
